@@ -1,4 +1,8 @@
-[![Actions Status](https://github.com/tbrowder/Astro-Sunrise/workflows/test/badge.svg)](https://github.com/tbrowder/Astro-Sunrise/actions)
+ADOPTED
+=======
+
+This module has been adopted by Tom Browder.  https://github.com/tbrowder/Astro-Sunrise is now the authoritative version.
+
 
 NAME
 ====
